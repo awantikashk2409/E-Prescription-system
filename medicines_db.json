@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Paracitamol",
+        "dosage": "500",
+        "symptoms": "Fever"
+    },
+    {
+        "name": "Nimprex",
+        "dosage": "100",
+        "symptoms": "Body Pain"
+    },
+    {
+        "name": "Nimprex P",
+        "dosage": "325",
+        "symptoms": "Fever"
+    },
+    {
+        "name": "Combiflame",
+        "dosage": "10mg",
+        "symptoms": "Stomach Pain"
+    }
+]
