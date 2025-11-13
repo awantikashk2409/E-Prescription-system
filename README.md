@@ -1,4 +1,5 @@
 🩺 E-Prescription System
+
 📘 Overview
 
 A simple desktop app for doctors to create digital prescriptions easily.
@@ -22,7 +23,5 @@ python main.py
 
 👨‍💻 Author
 
-Ankit — AI/ML Engineer
-Built with ❤️ using Python Tkinter & SQL
-
-Chaho to main iska upload-ready README.md version (perfect spacing + emoji format) bana du taaki bas GitHub me paste kar do?
+Awantika — Software Engineer 
+Built with ❤️ using Python Tkinter & JSON
